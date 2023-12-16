@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello maram!\n";
+    cout << "Hello dev3!\n";
    
 
 }
